@@ -34,7 +34,7 @@
 		<jedis.version>2.7.2</jedis.version>
 		<solrj.version>4.10.3</solrj.version>
 		<activemq.version>5.13.0</activemq.version>
-		<jsoup-version>1.10.2</jsoup-version>
+		<jsoup-version>1.15.3</jsoup-version>
 		<dwr-version>3.0.2-RELEASE</dwr-version>
 	</properties>
 	<!-- 只定义依赖的版本，并不实际依赖 -->
